@@ -1,6 +1,7 @@
 import React from 'react';
 import './Navbar.css';
-import { RiMenu3Line, RiCloseLin } from "react-icons/ri"
+import logo from '../../assets/logo.svg';
+import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 
 const Navbar = () => {
   return (
